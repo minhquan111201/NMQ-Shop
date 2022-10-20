@@ -1,0 +1,11 @@
+Những lưu ý cần nhớ trong HTML, CSS khi đi phỏng vấn !!!
+
+- Attribute: thuộc tính nằm trong thẻ
+<h1 title="hihi">Attribute</h1>
+=> title="hihi" là thuộc tính
+
+- Có 3 cách sử dụng CSS trong HTML
+1. Internal (viết bằng thẻ style trong file html)
+2. External (dẫn link từ file html sang css)
+3. Inline (viết luôn vào trong thẻ, sử dụng attribute)
+ 
